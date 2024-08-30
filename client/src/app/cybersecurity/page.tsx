@@ -10,7 +10,7 @@ export default function Cybersecurity() {
           Cybersecurity
         </h1>
         <p className="text-lg text-gray-500 w-2/5 pt-4">
-          Tools, operating systems and SaaS's that I've been using throughout
+          Tools, operating systems and SaaS that I've been using throughout
           my early career and can bring real value to a company.
         </p>
         <Security
@@ -22,7 +22,7 @@ export default function Cybersecurity() {
             "Nmap",
             "Metasploit",
           ]}
-          description="Used Kali Linux for Capture The Flag and exploiting Virtual Machines in Hack the Box. Network analysis, port scanning, and exploiting common vulnerabilities with unsupported OS's in a secure and legal environment."
+          description="Used Kali Linux for Capture The Flag and exploiting Virtual Machines in Hack the Box. Network analysis, port scanning, and exploiting common vulnerabilities with unsupported OS in a secure and legal environment."
           isEvidence={false}
           href=""
         />
