@@ -10,7 +10,7 @@ export default function Cybersecurity() {
           Cybersecurity
         </h1>
         <p className="text-lg text-gray-500 w-2/5 pt-4">
-          Tools, operating systems and SaaS that I've been using throughout
+          Tools, operating systems and SaaS that I ve been using throughout
           my early career and can bring real value to a company.
         </p>
         <Security
