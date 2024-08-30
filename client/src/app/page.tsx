@@ -35,10 +35,7 @@ export default function Home() {
             <SiGmail style={{ color: '#c71610', fontSize: '24px' }} />
             <p className=" text-md">nando.garcia2504@gmail.com</p>
           </div>
-          <div className="flex gap-2 items-center">
-            <FaPhoneFlip style={{ color: '#f5f5f5', fontSize: '24px' }} />
-            <p className=" text-md">+52 55 5951 8331</p>
-          </div>
+
         </div>
         <div className="pt-5">
           <h3 className="text-xl pt-4">• Computer Science</h3>
